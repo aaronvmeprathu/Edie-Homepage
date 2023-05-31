@@ -1,0 +1,144 @@
+.navbar-brand{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
+    color: #100E1D !important;
+}
+.navbar-nav{
+    font-family: 'Poppins';
+font-weight: 500;
+font-size: 1.3rem;
+}
+.HERO{
+    font-family: 'Poppins';
+font-weight: 500;
+}
+.heading2{
+    font-size: 3rem;
+}
+.ques{
+    color:  #2D9CDB;
+    
+}
+
+.discription{
+    color:  #4F4F4F;
+    font-size: larger;
+}
+.card-title{
+    font-family: 'Poppins';
+    font-weight: 700;
+    
+
+}
+.card-text{
+    font-size: 1rem;
+}
+.edit-icon{
+    font-size: 2rem;
+    color: #ffffff;
+    background-color:  #2D9CDB;
+    border-radius: 0.9rem;
+}
+.card{
+    background-color: #faf8f8 ;
+    border: none;
+}
+.card:hover{
+    box-shadow: 0px 10px 30px rgba(51, 51, 51, 0.1);
+    border-radius: 24px;
+    cursor: pointer;
+}
+.code{
+    font-size: 2rem;
+    color: #ffffff;
+    background: #27AE60;
+    border-radius: 0.9rem;
+
+}
+.storage{
+    font-size: 2rem;
+    color: #ffffff;
+    background: #EB5757;
+    border-radius: 0.9rem;
+
+
+}
+@media (min-width: 1200px) {
+    .custom-padding {
+      padding-top: 10em !important;
+    }
+    .cs-margin{
+        margin-left: 20rem;
+      margin-right: 20rem;
+      }
+      
+  }
+  .seemore{
+    color: #2D9CDB;
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    
+  }
+ 
+
+  .seemore:hover {
+     transform: scale(1.1);
+  }
+  
+  .seemore-wrapper{
+    margin-right: 20rem;
+
+  }
+  @media (min-width: 768px) {
+    .seemore-wrapper {
+      text-align: right;
+    }
+  }
+  .team{
+    margin-top: 15rem;
+  }
+  .team-title{
+    margin-right: 12rem;
+  }
+  .teamtitles1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+color: #EB5757;
+  }
+  
+  .cs-gap{
+    margin-bottom: 01rem;
+  }
+  .profilepic{
+    width: 5.12rem;
+  height: 5.12rem;
+  }
+  .footer{
+    background-color:  #100E1D;
+    ;
+  }
+  .nav{
+    
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+  }
+  .nav-link.cus{
+    color: #ffffff !important;
+  }
+  .navbar-brand1{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
+    color: #ffffff;
+    text-decoration: none;
+
+  }
+
+
